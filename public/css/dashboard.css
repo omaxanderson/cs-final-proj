@@ -1,0 +1,30 @@
+.sensor_dash {
+/*	background-color: red; */
+}
+
+.float-left {
+	float: left;
+}
+
+.float-right {
+	float: right;
+}
+
+.dash_cell {
+/*	height: 200px; */
+}
+
+.col-centered {
+	float: none;
+	margin: 0 auto;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: none;
+	color: #909090;
+}
